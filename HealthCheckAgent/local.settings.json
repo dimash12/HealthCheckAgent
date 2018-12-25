@@ -1,0 +1,12 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet",
+    "APP_URL": "http://localhost:45903/",
+    "METRIC_APP_PREFIX": "myapp",
+    "METRIC_TAGS": "Environment:Testing",
+    "DD_API_KEY": "DATADOG_API_KEY",
+    "DD_APP_KEY": "DATADOG_APP_KEY"
+  }
+}
